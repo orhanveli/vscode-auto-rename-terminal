@@ -1,0 +1,1 @@
+{"version":3,"file":"rename-active-terminal.js","sourceRoot":"","sources":["../../src/utils/rename-active-terminal.ts"],"names":[],"mappings":";;;;;;;;;AAAA,+CAAiC;AACjC,oDAAqE;AAErE,kBAAe,CAAC,IAAY,EAAE,EAAE;IAC5B,MAAM,CAAC,QAAQ,CAAC,cAAc,CAAC,uCAA4B,EAAE;QACzD,IAAI;KACP,CAAC,CAAC;IACH,MAAM,CAAC,MAAM,CAAC,sBAAsB,CAAC,0BAA0B,IAAI,EAAE,CAAC,CAAC;AAC3E,CAAC,CAAA"}

@@ -1,0 +1,36 @@
+{
+	"name": "vscode-auto-rename-terminal",
+	"version": "1.0.0",
+	"description": "VS Code extension for auto rename terminal with folder name",
+	"license": "MIT",
+	"publisher": "Orhan Veli Firik",
+	"displayName": "Auto Rename Terminal",
+	"categories": [
+		"Other"
+	],
+	"keywords": [
+		"terminal", "rename"
+	],
+	"engines": {
+		"vscode": "^1.32.0"
+	},
+	"activationEvents": [
+		"*"
+	],
+	"main": "./dist/extension.js",
+	"contributes": {
+		"commands": [
+			{
+				"command": "extension.autoRenameTerminal",
+				"title": "Auto Rename Terminal"
+			}
+		]
+	},
+	"scripts": {},
+	"devDependencies": {
+		"@types/node": "^13.11.0",
+		"@types/vscode": "^1.43.0",
+		"eslint": "^6.8.0",
+		"typescript": "^3.8.3"
+	}
+}
